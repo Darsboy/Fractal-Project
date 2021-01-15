@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=FractleDrawing
+comment1.params=N\ x\ y\ angle\ size
+comment1.target=void\ drawTree(int,\ double,\ double,\ double,\ double)
+comment2.params=xc\ yc\ r\ angleOig
+comment2.target=void\ drawTriangle(double,\ double,\ double,\ double)
+comment3.params=N\ xc\ yc\ Length\ angleOig
+comment3.target=void\ TrianglesFractle(int,\ double,\ double,\ double,\ double)
+comment3.text=\r\n\ The\ triangles\ are\ the\ interior\ fractals\r\n
+comment4.params=xc\ yc\ Length\ angleOig
+comment4.target=void\ drawLine(double,\ double,\ double,\ double)
+comment5.params=N\ xc\ yc\ r\ angle\ angleRev
+comment5.target=void\ drawFractleCrazy(int,\ double,\ double,\ double,\ double,\ double)
+comment5.text=\r\n\ Draw\ the\ fractle\ for\ every\ triangle\ drawn\ that\ is\ not\ the\ first\ draw\ 3\ other\ triangles\ and\ position\ them\ on\ the\ edges\ of\ the\ current\ triangle\r\n
+comment6.params=angle
+comment6.target=double\ degreeSin(double)
+comment7.params=angle
+comment7.target=double\ degreeCos(double)
+comment8.params=
+comment8.target=void\ main()
+numComments=9
